@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [ECOMMERCE_APP](https://github.com/biswanath482/ecommerce_app)
 
-- 👨‍💻 All of my projects are available at [https://biswanath482.github.io/portfolio/MR-Biswanath%20Parida.html](https://biswanath482.github.io/portfolio/MR-Biswanath%20Parida.html)
+- 👨‍💻 My portfolio link [https://biswanath482.github.io/portfolio/MR-Biswanath%20Parida.html](https://biswanath482.github.io/portfolio/MR-Biswanath%20Parida.html)
 
 - 💬 Ask me about **Python,Fullstack dev,react**
 
