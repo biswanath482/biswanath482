@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm BISWANATH PARIDA</h1>
 <h3 align="center">I AM A AIML AND FULLSTACK DEVLOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswanath482&label=Profile%20views&color=0e75b6&style=flat" alt="biswanath482" /> </p>
-
 - 🔭 I’m currently working on [SUPERVISED](https://github.com/biswanath482/supervised)
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning and Fullstack dev**
