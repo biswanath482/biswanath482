@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning and Fullstack dev**
 
-- 👯 I’m looking to collaborate on [SOSIAL_BLOG](https://github.com/biswanath482/blog__platform)
+- 👯 I’m looking to collaborate on [SOCIAL_BLOG](https://github.com/biswanath482/blog__platform)
 
 - 🤝 I’m looking for help with [ECOMMERCE_APP](https://github.com/biswanath482/ecommerce_app)
 
